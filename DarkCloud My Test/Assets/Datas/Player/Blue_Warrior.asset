@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb363f99438c4845be7f01c06a42e23, type: 3}
+  m_Name: Blue_Warrior
+  m_EditorClassIdentifier: 
+  skin_parts:
+  - {fileID: 21300000, guid: ba7d2646a8d364c47bb1a0227dd20d08, type: 3}
+  - {fileID: 21300000, guid: 4b041347d52363540aa0dc0f87c516d2, type: 3}
+  - {fileID: 21300000, guid: a761cfb3817e6944691075f8e68dfe56, type: 3}
+  - {fileID: 21300000, guid: 217d975f655bcf94b959ad934e1d99cb, type: 3}
+  - {fileID: 21300000, guid: 91927641ed3ed664990cbc2b7196e54e, type: 3}
+  - {fileID: 21300000, guid: d1fad76e82473fb43985914e9d6e729c, type: 3}
+  - {fileID: 21300000, guid: 26288a17db0959b40906df23ad7d23e5, type: 3}
+  - {fileID: 21300000, guid: 268a4ff6c227dd542b9c49de62b0da78, type: 3}
+  - {fileID: 21300000, guid: 2e1380db7921d4347ba2fed42880b743, type: 3}

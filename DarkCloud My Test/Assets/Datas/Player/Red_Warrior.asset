@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb363f99438c4845be7f01c06a42e23, type: 3}
+  m_Name: Red_Warrior
+  m_EditorClassIdentifier: 
+  skin_parts:
+  - {fileID: 21300000, guid: 99489f94a15322642a89308ec19fc100, type: 3}
+  - {fileID: 21300000, guid: ede067950ccf04f4e8f663cc425f8398, type: 3}
+  - {fileID: 21300000, guid: 3f6baaff961f0764392dfc0805dd1d67, type: 3}
+  - {fileID: 21300000, guid: 92360deb84a45ea4ab86d4deb88f97f9, type: 3}
+  - {fileID: 21300000, guid: b124883fc27c2a443a63480b93aca190, type: 3}
+  - {fileID: 21300000, guid: 7f5216d818f3fe6418da3bd71b3218ed, type: 3}
+  - {fileID: 21300000, guid: 4ad85520af8aa344eb17538762f3725a, type: 3}
+  - {fileID: 21300000, guid: 63507923ecb7c234a9b7133281a5a8ef, type: 3}
+  - {fileID: 21300000, guid: d14a0e1ef35aa254596c18ab3bddadff, type: 3}
